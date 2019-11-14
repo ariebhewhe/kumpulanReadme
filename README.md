@@ -25,6 +25,7 @@ COE-5109 Pemprograman Mobile.
 ### Dosen
 Ary Budi Warsito, M.Kom
 ### Matana University!
+<img src="http://matanauniversity.ac.id/website_lama/images/footer/Logo_mu_foot.png" />
 - Visi 
 Menjadi perguruan tinggi terpercaya, berwawasan global, yang berperan dalam meningkatkan kualitas ilmu pengetahuan, yang merupakan Karunia Tuhan, untuk kesejahteraan umat manusia.
 - Misi 
