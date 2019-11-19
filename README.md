@@ -4,17 +4,17 @@
 {{ Letakan gambar aplikasi disini }}
 
 ### Built With
-- {{ Komponen apa saja yang dikerjakan }}
+- {{ Komponen apa saja yang dikerjakan untuk membuat aplikasi }}
 
 ### Created By
-- {{ Nama Kelompok }}
+- {{ Nama Kelompok Anda }}
     - Halaman Login (2 poin)
     - Fungsi Login (1 poin)
     - Data Model (1 poin)
-- {{ Nama Kelompok }}
+- {{ Nama Kelompok Anda }}
     - Halaman Pencarian (3 poin)
     - Fungsi Pencarian (2 poin)
-- {{ Nama Kelompok }}
+- {{ Nama Kelompok Anda }}
     - Design Pattern BLoC (3 poin)
     - Fungsi REST API (2 poin)
     - Fungsi CRUD SQLite (3 poin)
